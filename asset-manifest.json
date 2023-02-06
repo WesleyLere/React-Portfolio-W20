@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/wesleylere.github.io/react-portfolio-w20/static/js/main.7c0da9b1.js",
-    "index.html": "/wesleylere.github.io/react-portfolio-w20/index.html",
-    "main.7c0da9b1.js.map": "/wesleylere.github.io/react-portfolio-w20/static/js/main.7c0da9b1.js.map"
+    "main.js": "/React-Portfolio-W20/static/js/main.e9a0725a.js",
+    "index.html": "/React-Portfolio-W20/index.html",
+    "main.e9a0725a.js.map": "/React-Portfolio-W20/static/js/main.e9a0725a.js.map"
   },
   "entrypoints": [
-    "static/js/main.7c0da9b1.js"
+    "static/js/main.e9a0725a.js"
   ]
 }
