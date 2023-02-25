@@ -3,7 +3,7 @@ import About from './components/about';
 import Footer from './components/footer';
 import Navbar from './components/navbar';
 import Portfolio from './components/portfolio';
-import Resume from './components/resume';
+import Resume from './components/tech';
 
 function App() {
 
@@ -12,7 +12,7 @@ function App() {
   const renderTab = () => {
     if (tab === "Portfolio") {
       return <Portfolio/>
-    } else if (tab === "Resume"){
+    } else if (tab === "Technologies"){
         return <Resume />;
     } else {
         return <About />;
