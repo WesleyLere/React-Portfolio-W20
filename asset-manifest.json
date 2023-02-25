@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/React-Portfolio-W20/static/js/main.e9a0725a.js",
-    "index.html": "/React-Portfolio-W20/index.html",
-    "main.e9a0725a.js.map": "/React-Portfolio-W20/static/js/main.e9a0725a.js.map"
+    "main.js": "/react-portfolio-W20/static/js/main.a1ad5499.js",
+    "static/media/ears.png": "/react-portfolio-W20/static/media/ears.1d051f634fd5873c975b.png",
+    "static/media/GameBoxd.png": "/react-portfolio-W20/static/media/GameBoxd.a15d69e9450b55075f57.png",
+    "static/media/Spudget_.png": "/react-portfolio-W20/static/media/Spudget_.15ac0d9ece65c88a3b7c.png",
+    "static/media/Sign_of_the_Times.png": "/react-portfolio-W20/static/media/Sign_of_the_Times.6e679a6b8f080f9382c5.png",
+    "index.html": "/react-portfolio-W20/index.html",
+    "main.a1ad5499.js.map": "/react-portfolio-W20/static/js/main.a1ad5499.js.map"
   },
   "entrypoints": [
-    "static/js/main.e9a0725a.js"
+    "static/js/main.a1ad5499.js"
   ]
 }
