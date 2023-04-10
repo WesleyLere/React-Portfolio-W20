@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.66b33808.js",
+    "main.js": "/static/js/main.359f564a.js",
     "static/media/ears.png": "/static/media/ears.1d051f634fd5873c975b.png",
     "static/media/GameBoxd.png": "/static/media/GameBoxd.a15d69e9450b55075f57.png",
     "static/media/Spudget_.png": "/static/media/Spudget_.15ac0d9ece65c88a3b7c.png",
     "static/media/Sign_of_the_Times.png": "/static/media/Sign_of_the_Times.6e679a6b8f080f9382c5.png",
     "index.html": "/index.html",
-    "main.66b33808.js.map": "/static/js/main.66b33808.js.map"
+    "main.359f564a.js.map": "/static/js/main.359f564a.js.map"
   },
   "entrypoints": [
-    "static/js/main.66b33808.js"
+    "static/js/main.359f564a.js"
   ]
 }
